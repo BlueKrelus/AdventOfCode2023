@@ -8,7 +8,7 @@ from pstats import SortKey, Stats
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 test_data_path = f"{script_dir}/data_task_a"
-# test_data_path = f"{script_dir}/data_task_a_test"
+test_data_path = f"{script_dir}/data_task_a_test"
 # test_data_path = f"{script_dir}/data_task_b"
 # test_data_path = f"{script_dir}/data_task_b_test"
 
